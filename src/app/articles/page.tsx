@@ -19,7 +19,7 @@ export default function articles() {
         >
           <h2 className="text-md font-semibold text-primary mb-2 inline-flex items-center gap-2">Nothing here yet — check back soon for awesome reads!<FaExternalLinkAlt /></h2>
           <p className="text-gray-600 dark:text-gray-300 mb-2">
-            I'm currently working on some exciting articles that will be published soon. Stay tuned for updates!
+            I`m currently working on some exciting articles that will be published soon. Stay tuned for updates!
           </p>
           <p className="text-sm text-gray-400">
           </p>
